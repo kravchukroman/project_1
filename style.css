@@ -6,4 +6,10 @@
 }
 div {
     opacity: 0;
+    padding: 10px;
+    background-color: cadetblue;
+    border: 1px dashed black;
+    position: fixed;
+    top: 30%;
+    left: 10%;
 }
